@@ -1,8 +1,8 @@
 # Entrega final DSAW:
 
-## URL Frontend: SU_URL_AQUÍ
-## URL Backend: SU_URL_AQUÍ
-## Nombre estudiante 1: 
+## URL Frontend: SU_URL_AQUÍ: wheells-fronted-3e3b.vercel.app
+## URL Backend: SU_URL_AQUÍ: https://wheells-backend-5dy4.onrender.com
+## Nombre estudiante 1: Maikol Gutierrez
 ## Nombre estudinate 2:
 
 # MODIFIQUE ESTE README AGREGANDO LA INFORMACIÓN QUE CONSIDERE PERTINENTE
